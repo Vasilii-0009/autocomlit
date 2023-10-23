@@ -1,0 +1,74 @@
+.container {
+  font-family: "Roboto", sans-serif;
+  max-width: 332px;
+  width: 100%;
+  position: absolute;
+  top: 25%;
+  left: 50%;
+  transform: translate(-50%, -25%);
+}
+
+.form__label {
+  color: #484848;
+}
+
+.form__input {
+  display: block;
+  width: 100%;
+  height: 33px;
+  margin-top: 8px;
+  padding: 6px 0 11px 14px;
+  border-radius: 4px 4px 0px 0px;
+  border: 1px solid #e5e5e5;
+  background: #fff;
+  outline: none;
+  color: #000;
+  font-size: 14px;
+  line-height: normal;
+}
+
+/* info */
+.info {
+  max-width: 332px;
+  width: 100%;
+  border-radius: 0px 0px 4px 4px;
+  border: 1px solid #e5e5e5;
+  border-top: 0px;
+  background: #fff;
+  box-shadow: 2px 2px 4px 0px rgba(0, 0, 0, 0.1);
+  padding: 9px 0px 24px 16px;
+  position: absolute;
+  top: 59.5px;
+  left: 50%;
+  transform: translate(-50%, 0);
+}
+
+.info__box {
+  display: flex;
+  align-items: center;
+  height: 54px;
+}
+
+.info__box:not(:last-child) {
+  margin-bottom: 16px;
+}
+
+.info__img {
+  width: 54px;
+}
+
+.info__titles-box {
+  margin-left: 16px;
+}
+
+.info__name {
+  font-size: 14px;
+  line-height: normal;
+  margin-bottom: 4px;
+}
+
+.info__domain {
+  color: #9f9f9f;
+  font-size: 12px;
+  line-height: normal;
+}
