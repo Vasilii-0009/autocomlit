@@ -1,4 +1,4 @@
-[ Ссылка на проекта Autocomplit ](https://vasilii-0009.github.io/autocomlit/)
+[ Ссылка на проекта Autocomplit ](https://vasilii-0009.github.io/autocomplit/)
 
 Инcтрукция по запуску проекта локально
 
