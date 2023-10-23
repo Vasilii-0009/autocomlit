@@ -1,11 +1,11 @@
-[ Ссылка на проекта Autocomplit ]()
+[ Ссылка на проекта Autocomplit ](https://vasilii-0009.github.io/autocomlit/)
 
-Интсрукция по запуску проекта локально
+Инcтрукция по запуску проекта локально
 
 **Клонируем репозиторий c помощью команды**
 
 ```
- $ git clone
+ $ git clone https://github.com/Vasilii-0009/autocomlit.git
 ```
 
 **Устанавливаем зависимости**
